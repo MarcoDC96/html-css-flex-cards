@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: ;
+    font-family: 'Fredoka', sans-serif;
     margin-top: 20px;
 
     
@@ -19,4 +19,34 @@
 
 .dT-10{
     margin-top: 30px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.c-skyblu{
+    color: rgb(85, 183, 225);
+}
+
+.flex-1{
+display: flex;
+margin-right: 20px;
+    
+}
+
+.bg-b{
+    background-color: black;
+}
+
+.tc-w{
+    color: white;
+}
+
+.padd-1{
+    padding-left: 6px;
+    padding-right: 6px;
 }
